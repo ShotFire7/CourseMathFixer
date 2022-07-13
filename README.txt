@@ -32,7 +32,7 @@ To use:
     For example, if the first number in the list is 4, then for the first question, I choose choice #4.
 
 Troubleshooting:
-If startapp.bat doesn't work, just open cmd, type in cd and then the directory the file
+If you're on Mac or Linux, or if startapp.bat doesn't work, just open cmd or the equivalent for your os, type in cd and then the directory the file
 is downloaded to, and then type in "main" and press enter. 
 
 If the app bugs out, then the site you're using it on is likely not supported.
