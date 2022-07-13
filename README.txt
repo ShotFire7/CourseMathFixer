@@ -28,6 +28,8 @@ To use:
 6.) Repeat steps 2-3
 7.) ctrl V that line into data2.txt
 8.) run STARTAPP.bat
+9.) The console will print a list of numbers. That list is the order of multiple choice you're supposed to choose
+    For example, if the first number in the list is 4, then for the first question, I choose choice #4.
 
 Troubleshooting:
 If startapp.bat doesn't work, just open cmd, type in cd and then the directory the file
